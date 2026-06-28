@@ -7,12 +7,14 @@ import Platforms from "@/components/home/Platforms";
 import Process from "@/components/home/Process";
 import CTA from "@/components/home/CTA";
 import Footer from "@/components/home/Footer";
+import About from "@/components/home/About";
 
 export default function Home() {
   return (
     <>
       <Navbar />
       <Hero />
+      <About />
       <Services />
       <Industries />
       <Partners />
