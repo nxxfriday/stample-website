@@ -5,6 +5,8 @@ import Industries from "@/components/home/Industries";
 import Process from "@/components/home/Process";
 import CTA from "@/components/home/CTA";
 import Footer from "@/components/home/Footer";
+import Platforms from "@/components/home/Platforms";
+import Partners from "@/components/home/Partners";
 
 export default function Home() {
   return (
